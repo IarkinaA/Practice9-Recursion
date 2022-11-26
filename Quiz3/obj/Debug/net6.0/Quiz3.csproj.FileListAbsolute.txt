@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\bin\Debug\net6.0\Quiz3.exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\bin\Debug\net6.0\Quiz3.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\bin\Debug\net6.0\Quiz3.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\bin\Debug\net6.0\Quiz3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\bin\Debug\net6.0\Quiz3.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\refint\Quiz3.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\Quiz3.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Practice9\Quiz3\obj\Debug\net6.0\ref\Quiz3.dll
